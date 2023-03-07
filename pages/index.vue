@@ -20,8 +20,8 @@
       <!-- <button class="p-4 gradient-border cursor-pointer">Check out my project !</button> -->
     </div>
 
-    <div class="h-screen">
-      <div class="h-[50vh]">
+    <div class="md:h-screen">
+      <div class="md:h-[50vh]">
         <p class="mb-3 text-2xl text-violet-300">About Me!</p>
         <div class="xl:w-1/2">
           <p class="mb-3 text-space">Hi there! I'm <span class="text-orange-300">Yoswaris Lawpaiboon</span> and I have a passion for coding. My interest in web development started in 2016 when I learned from youtube and web board how to build websites from scratch. In fact, my initial motivation was to sell C source code to my friends by creating a website. Since then, I've continued to learn and grow as a developer, always looking for a new Tech stack.</p>
@@ -45,7 +45,6 @@
       <div class="h-[50vh] flex justify-center flex-col">
         <type-it></type-it>
       </div>
-      
     </div>
 
     <div class="my-5">
