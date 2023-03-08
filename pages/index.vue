@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { ClientOnly } from '~~/.nuxt/components';
-
   useServerSeoMeta({
     title: 'Yoswaris Lawpaiboon',
     ogTitle: 'Yoswaris Lawpaiboon',
