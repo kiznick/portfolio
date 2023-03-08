@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { ClientOnly } from '~~/.nuxt/components';
+
   useServerSeoMeta({
     title: 'Yoswaris Lawpaiboon',
     ogTitle: 'Yoswaris Lawpaiboon',
@@ -43,7 +45,7 @@
         </div>
       </div>
       <div class="h-[50vh] flex justify-center flex-col">
-        <type-it></type-it>
+        <type-it />
       </div>
     </div>
 
@@ -53,10 +55,10 @@
 
     <div class="fixed bottom-0 right-0 m-4 text-xs text-gray-500">
       <a target="_blank" href="https://facebook.com/kiznick">
-        <img class="mx-2 w-[32px] h-[32px] mb-2" src="~/assets/images/f_logo_RGB-Blue_512.png" alt="facebook.com/kiznick">
+        <nuxt-img class="mx-2 w-[32px] h-[32px] mb-2" src="~/assets/images/f_logo_RGB-Blue_512.png" alt="facebook.com/kiznick" placeholder quality="100" width="32" height="32" />
       </a>
       <a target="_blank" href="https://github.com/kiznick">
-        <img class="mx-2 w-[32px] h-[32px]" src="~/assets/images/github-mark-white.svg" alt="github.com/kiznick">
+        <nuxt-img class="mx-2 w-[32px] h-[32px]" src="~/assets/images/github-mark-white.svg" alt="github.com/kiznick" placeholder quality="100" width="32" height="32" />
       </a>
     </div>
   </div>

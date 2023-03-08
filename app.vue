@@ -7,6 +7,9 @@
 <script setup>
     const route = useRoute()
     useHead({
+        htmlAttrs: {
+            lang: 'en',
+        },
         title: route.meta.title ? `${route.meta.title} | Yoswaris Lawpaiboon` : 'Yoswaris Lawpaiboon',
         link: [
             { rel: 'preconnect', href: 'https://fonts.googleapis.com' },

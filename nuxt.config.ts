@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxt/devtools',
+    '@nuxt/image',
   ],
   css: ['~/assets/css/main.css'],
   postcss: {
