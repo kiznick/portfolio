@@ -4,7 +4,7 @@
       <p class="text-blue-200 mb-5">Hi, my name is</p>
       <h1 class="heading-text text-pink-400 mb-5">Yoswaris Lawpaiboon</h1>
       <h2 class="text-2xl text-blue-100 mb-5">One night miracle is real !</h2>
-      <h3 class="md:w-1/2 mb-5 text-space">I am a web developer with a passion for creating intuitive and engaging user experiences. With several years of experience in web development, I have honed my skills in creating dynamic websites and applications using a range of programming languages and technologies.</h3>
+      <h3 class="md:w-1/2 mb-5 text-space">I am a web developer passionate about creating intuitive and engaging user experiences. With several years of experience in web development, I have honed my skills in creating dynamic websites and applications using a range of programming languages and technologies.</h3>
       <!-- <button class="p-4 gradient-border cursor-pointer">Check out my project !</button> -->
     </div>
 
@@ -14,9 +14,9 @@
 
         <div class="xl:flex flex-row">
           <div class="w-full xl:w-1/2">
-            <p class="mb-3 text-space">Hi there! I'm <span class="text-orange-300">Yoswaris Lawpaiboon</span> and I have a passion for coding. My interest in web development started in 2016 when I learned from youtube and web board how to build websites from scratch. In fact, my initial motivation was to sell C source code to my friends by creating a website. Since then, I've continued to learn and grow as a developer, always looking for a new Tech stack.</p>
+            <p class="mb-3 text-space">Hi there! I'm <span class="text-orange-300">Yoswaris Lawpaiboon</span>, and I have a passion for coding. My interest in web development started in 2016 when I learned from youtube and the web board how to build websites from scratch. My initial motivation was to sell C source code to my friends by creating a website. Since then, I've continued to learn and grow as a developer, always looking for a new Tech stack.</p>
           
-            <p class="mb-5">I am always trying to change the world with new ideas.</p>
+            <p class="mb-5">I always try to change the world with new ideas.</p>
             
             <p class="mb-3">There are a few technologies I’ve been working with recently:</p>
             <ul class="list-square columns-3 ml-5">
